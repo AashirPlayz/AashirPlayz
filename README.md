@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm AashirPlayz</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashirplayz&label=Profile%20views&color=0e75b6&style=flat" alt="aashirplayz" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashirplayz" alt="aashirplayz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aashirbg" target="blank"><img src="https://img.shields.io/twitter/follow/aashirbg?logo=twitter&style=for-the-badge" alt="aashirbg" /></a> </p>
